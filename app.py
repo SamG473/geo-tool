@@ -5,6 +5,22 @@ from dotenv import load_dotenv
 load_dotenv()
 client = OpenAI()
 
+def judge(business, answer, category, location):
+    prompt = f"""You are checking whether one specific business appears in a block of text.
+
+Business name: "{business}"
+Category: {category}
+Location: {location}
+
+The text below is an AI assistant's answer to a question about {category} businesses in {location}. Decide whether this specific business appears anywhere in it — whether as the main recommendation, one option in a list, or any passing mention. Count it as a match even if the name is shortened or written slightly differently, as long as it clearly refers to the same business. Do NOT count a different business that merely shares a common word with it.
+
+Answer with a single word — "yes" if the business appears, or "no" if it does not.
+
+Text:
+{answer}"""
+    response = client.responses.create(model="gpt-5.5", input=prompt)
+    return response.output_text.strip()
+
 st.title("GEO Audit Tool")
 st.write("Check whether a business shows up in AI answers.")
 
@@ -37,7 +53,9 @@ if st.button("Run audit"):
                 input=query
             )
             answer = response.output_text
-            if business.lower() in answer.lower():
+
+            raw = judge(business, answer, category, location)
+            if raw.lower().startswith("y"):
                 results.append(f"✅ {query}")
                 hits += 1
             else:
