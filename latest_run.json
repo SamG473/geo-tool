@@ -1,0 +1,220 @@
+{
+  "business": "Sushi Life",
+  "category": "Restaurant",
+  "location": "Cardiff",
+  "competitors": [
+    "Yakitori1",
+    "YO!"
+  ],
+  "run_at": "2026-06-23T15:57",
+  "queries": [
+    {
+      "query": "best Restaurant in Cardiff",
+      "answer": "**Best overall restaurant in Cardiff: _Gorse_ in Pontcanna.**  \nIt’s Cardiff’s **first and currently only Michelin-starred restaurant**, serving modern British/Welsh tasting menus with a strong local-produce focus. Michelin lists it as **One Star: high quality cooking**, and Time Out ranks it **#1 in Cardiff**, calling it “the finest Cardiff has to offer.” ([guide.michelin.com](https://guide.michelin.com/en/south-glamorgan/cardiff/restaurant/gorse?utm_source=openai))\n\n**Good alternatives depending on what you want:**\n\n- **Special occasion / fine dining:** **Heaneys** — seasonal tasting menus, great wine list. ([timeout.com](https://www.timeout.com/cardiff/restaurants/best-restaurants-in-cardiff))  \n- **Ramen / casual but excellent:** **Matsudai Ramen** — Wales’s first dedicated ramen shop. ([timeout.com](https://www.timeout.com/cardiff/restaurants/best-restaurants-in-cardiff))  \n- **Spanish grill / steak:** **Asador 44** — strong pick near the Principality Stadium. ([timeout.com](https://www.timeout.com/cardiff/restaurants/best-restaurants-in-cardiff))  \n- **Indian:** **Purple Poppadom** — award-winning, Michelin-noted South Asian cooking. ([timeout.com](https://www.timeout.com/cardiff/restaurants/best-restaurants-in-cardiff))  \n\nIf you want **the best single pick**, book **Gorse**—but reserve well ahead because it’s small and popular.",
+      "citations": [
+        {
+          "url": "https://guide.michelin.com/en/south-glamorgan/cardiff/restaurant/gorse?utm_source=openai",
+          "title": "Gorse – Cardiff - a MICHELIN Guide Restaurant"
+        },
+        {
+          "url": "https://www.timeout.com/cardiff/restaurants/best-restaurants-in-cardiff",
+          "title": "15 Best Restaurants in Cardiff: 2025 Reviews By A Local Expert"
+        }
+      ]
+    },
+    {
+      "query": "top-rated Restaurant in Cardiff",
+      "answer": "If you mean **Cardiff, Wales**, the best “top-rated” pick depends on the rating source:\n\n**Best overall / fine dining:** **Gorse** — Cardiff’s **only Michelin-starred restaurant**, serving Modern British food at **186–188 Kings Road, CF11 9DF**. Michelin lists it as **One Star: High quality cooking**, and describes it as an intimate, chef-led restaurant focused on the Welsh larder. ([guide.michelin.com](https://guide.michelin.com/en/south-glamorgan/cardiff/restaurant/gorse?utm_source=openai))\n\n**Top on Tripadvisor-style diner rankings:** **Ciliegino Restaurant** appears at #1 on Tripadvisor’s Cardiff restaurant list, with a **4.8/5** rating; it’s an Italian restaurant. ([tripadvisor.com](https://www.tripadvisor.com/Restaurants-g186460-Cardiff_South_Wales_Wales.html))\n\n**Other strong choices:**  \n- **Heaneys** — Michelin-listed, stylish modern restaurant in Pontcanna. ([guide.michelin.com](https://guide.michelin.com/gb/en/south-glamorgan/cardiff/restaurant/heaneys?utm_source=openai))  \n- **Hiræth** — Michelin-listed, on Cowbridge Road East. ([guide.michelin.com](https://guide.michelin.com/us/en/south-glamorgan/cardiff/restaurant/hiraeth-1215955?utm_source=openai))  \n- **Pasture Cardiff** — highly rated steakhouse/fine-dining option, shown with **4.8/5** on Tripadvisor. ([tripadvisor.com](https://www.tripadvisor.com/Restaurants-g186460-Cardiff_South_Wales_Wales.html))\n\n**My recommendation:** book **Gorse** if you want the most acclaimed/special-occasion restaurant; choose **Ciliegino** if you want a highly rated, more casual Italian meal.",
+      "citations": [
+        {
+          "url": "https://guide.michelin.com/en/south-glamorgan/cardiff/restaurant/gorse?utm_source=openai",
+          "title": "Gorse – Cardiff - a MICHELIN Guide Restaurant"
+        },
+        {
+          "url": "https://www.tripadvisor.com/Restaurants-g186460-Cardiff_South_Wales_Wales.html",
+          "title": "THE 10  BEST Restaurants in Cardiff (Updated October 2025)"
+        },
+        {
+          "url": "https://guide.michelin.com/gb/en/south-glamorgan/cardiff/restaurant/heaneys?utm_source=openai",
+          "title": "Heaneys – Cardiff - a MICHELIN Guide Restaurant"
+        },
+        {
+          "url": "https://guide.michelin.com/us/en/south-glamorgan/cardiff/restaurant/hiraeth-1215955?utm_source=openai",
+          "title": "Hiræth – Cardiff - a MICHELIN Guide Restaurant"
+        }
+      ]
+    },
+    {
+      "query": "recommend a Restaurant in Cardiff",
+      "answer": "**My top pick: Gorse** — best if you want a special, modern Welsh meal in Cardiff. It focuses on hyper-local Welsh produce and seasonal tasting menus, and Visit Wales notes it holds **a Michelin Star** and **three AA Rosettes**. ([visitwales.com](https://www.visitwales.com/things-do/food-and-drink/places-eat-and-drink/guide-eating-cardiff))\n\nIf you want alternatives:\n\n- **Heaneys** — polished but relaxed; tasting menus and Sunday roast, run by Great British Menu chef Tommy Heaney. ([visitwales.com](https://www.visitwales.com/things-do/food-and-drink/places-eat-and-drink/guide-eating-cardiff))  \n- **Asador 44** — excellent for steak/Spanish-style charcoal cooking in the city centre; a strong choice for a date night or group dinner. ([visitwales.com](https://www.visitwales.com/things-do/food-and-drink/places-eat-and-drink/guide-eating-cardiff))  \n- **The Potted Pig** — atmospheric spot in a former bank vault, with modern takes on Welsh food. ([visitwales.com](https://www.visitwales.com/things-do/food-and-drink/places-eat-and-drink/guide-eating-cardiff))  \n\n**If you only book one:** go with **Gorse** for a memorable Cardiff dining experience.",
+      "citations": [
+        {
+          "url": "https://www.visitwales.com/things-do/food-and-drink/places-eat-and-drink/guide-eating-cardiff",
+          "title": "Places to eat in Cardiff: A guide to food in Cardiff | Visit Wales"
+        }
+      ]
+    },
+    {
+      "query": "who are the best Restaurant in Cardiff",
+      "answer": "Here are some of the **best restaurants in Cardiff**, depending on what you’re looking for:\n\n| Restaurant | Best for | Area / vibe |\n|---|---|---|\n| **Gorse** | **Top fine dining / special occasion** | Pontcanna. Cardiff’s first and currently only Michelin-starred restaurant; modern British tasting menus focused on Welsh produce. ([guide.michelin.com](https://guide.michelin.com/gb/en/article/features/michelin-star-restaurants-in-wales?utm_source=openai)) |\n| **Heaneys** | Creative tasting menu | Pontcanna/Canton. Run by Tommy Heaney; good for a polished but relaxed meal. ([visitwales.com](https://www.visitwales.com/things-do/food-and-drink/places-eat-and-drink/guide-eating-cardiff?utm_source=openai)) |\n| **Hiraeth** | Modern Welsh cooking | Cowbridge Road East. Strong local-produce focus and cosy, refined feel. ([visitwales.com](https://www.visitwales.com/things-do/food-and-drink/places-eat-and-drink/guide-eating-cardiff?utm_source=openai)) |\n| **Purple Poppadom** | Best Indian / modern curry night | Canton. Michelin-listed Indian restaurant known for layered spicing and dishes like tiffin sea bass. ([guide.michelin.com](https://guide.michelin.com/gb/en/south-glamorgan/cardiff/restaurant/purple-poppadom?utm_source=openai)) |\n| **Asador 44** | Spanish grill, steak & seafood | City centre. Great if you want charcoal-grilled meat, fish and Spanish-style dining. ([visitcardiff.com](https://www.visitcardiff.com/2025/01/tripadvisors-top-rated-restaurants/?utm_source=openai)) |\n| **Pasture** | Steak | City centre. Popular for high-quality cuts and a lively, premium steakhouse feel. ([visitcardiff.com](https://www.visitcardiff.com/2025/01/tripadvisors-top-rated-restaurants/?utm_source=openai)) |\n| **Thomas by Tom Simmons** | French-influenced Welsh food | Pontcanna. Smart but comfortable; good for date night or a refined dinner. ([visitwales.com](https://www.visitwales.com/things-do/food-and-drink/places-eat-and-drink/guide-eating-cardiff?utm_source=openai)) |\n| **Mesen** | Neighbourhood small plates | Rhiwbina. The Good Food Guide highlights it for relaxed contemporary cooking. ([thegoodfoodguide.co.uk](https://www.thegoodfoodguide.co.uk/where-to-eat/best-restaurants-in-cardiff?utm_source=openai)) |\n| **Ogof** | Natural wine & seasonal plates | Kings Road/Pontcanna. Good for a more modern, low-key foodie meal. ([visitwales.com](https://www.visitwales.com/things-do/food-and-drink/places-eat-and-drink/guide-eating-cardiff?utm_source=openai)) |\n| **The Potted Pig** | Classic Cardiff pick | City centre. European/British food in a former bank vault; a long-running favourite. ([tripadvisor.com](https://www.tripadvisor.com/Restaurants-g186460-Cardiff_South_Wales_Wales.html?utm_source=openai)) |\n\n**My quick picks:**  \n- **Best overall:** Gorse  \n- **Best steak:** Pasture or Asador 44  \n- **Best Indian:** Purple Poppadom  \n- **Best date night:** Heaneys or Thomas by Tom Simmons  \n- **Best local Welsh feel:** Hiraeth  \n- **Best casual foodie spot:** Ogof or Mesen",
+      "citations": [
+        {
+          "url": "https://guide.michelin.com/gb/en/article/features/michelin-star-restaurants-in-wales?utm_source=openai",
+          "title": "MICHELIN-Star Restaurants in Wales"
+        },
+        {
+          "url": "https://www.visitwales.com/things-do/food-and-drink/places-eat-and-drink/guide-eating-cardiff?utm_source=openai",
+          "title": "Places to eat in Cardiff: A guide to food in Cardiff | Visit Wales"
+        },
+        {
+          "url": "https://guide.michelin.com/gb/en/south-glamorgan/cardiff/restaurant/purple-poppadom?utm_source=openai",
+          "title": "Purple Poppadom – Cardiff - a MICHELIN Guide Restaurant"
+        },
+        {
+          "url": "https://www.visitcardiff.com/2025/01/tripadvisors-top-rated-restaurants/?utm_source=openai",
+          "title": "Dining in Cardiff: TripAdvisor’s Top-Rated Restaurants in the Welsh Capital • News & Blogs • Visit Cardiff"
+        },
+        {
+          "url": "https://www.thegoodfoodguide.co.uk/where-to-eat/best-restaurants-in-cardiff?utm_source=openai",
+          "title": "Best Restaurants in Cardiff 2026 | Where To Eat | The Good Food Guide"
+        },
+        {
+          "url": "https://www.tripadvisor.com/Restaurants-g186460-Cardiff_South_Wales_Wales.html?utm_source=openai",
+          "title": "THE 10 BEST Restaurants in Cardiff (Updated June 2026)"
+        }
+      ]
+    },
+    {
+      "query": "most popular Restaurant in Cardiff",
+      "answer": "If you mean **most popular / most booked right now**, I’d pick **The Ivy Cardiff**. OpenTable’s “Most Booked restaurants in Cardiff City & County,” updated **5 June 2026**, lists **The Ivy Cardiff** first, with a 4.3 rating from nearly 15,000 reviews. ([opentable.co.uk](https://www.opentable.co.uk/diners-choice/south-wales/cardiff-city-and-county/mostbooked))\n\nIf you mean **highest-ranked by diners on Tripadvisor**, **Ciliegino Restaurant** is currently listed at #1 in Cardiff, rated 4.8 with 1,400+ reviews. ([tripadvisor.com](https://www.tripadvisor.com/Restaurants-g186460-Cardiff_South_Wales_Wales.html))\n\nFor a special-occasion / fine-dining option, **Gorse** is Cardiff’s Michelin-starred pick, holding **one Michelin star**. ([guide.michelin.com](https://guide.michelin.com/us/en/south-glamorgan/cardiff/restaurant/gorse?utm_source=openai))\n\n**Quick recommendation:**  \n- **Popular central choice:** The Ivy Cardiff  \n- **Italian / crowd-pleaser:** Ciliegino Restaurant  \n- **Best for steak:** Pasture Cardiff  \n- **Fine dining:** Gorse",
+      "citations": [
+        {
+          "url": "https://www.opentable.co.uk/diners-choice/south-wales/cardiff-city-and-county/mostbooked",
+          "title": "Diners' Choice: Most Booked restaurants in Cardiff City & County"
+        },
+        {
+          "url": "https://www.tripadvisor.com/Restaurants-g186460-Cardiff_South_Wales_Wales.html",
+          "title": "THE 10  BEST Restaurants in Cardiff (Updated October 2025)"
+        },
+        {
+          "url": "https://guide.michelin.com/us/en/south-glamorgan/cardiff/restaurant/gorse?utm_source=openai",
+          "title": "Gorse – Cardiff - a MICHELIN Guide Restaurant"
+        }
+      ]
+    },
+    {
+      "query": "affordable Restaurant in Cardiff",
+      "answer": "Assuming you mean **Cardiff, Wales** — here are good **affordable** picks:\n\n1. **Falafel Corner – Queen Street / Capitol Shopping Centre**  \n   Best for a very cheap, filling meal. Large Lebanese wrap is listed at **£8**, large salad bowl **£8**, pitta **£7**, and a meal deal for two **£15**; good vegetarian/vegan option. ([weur-cdn.menuweb.menu](https://weur-cdn.menuweb.menu/storage/media/companies_menu_pdf/114644282/falafel-corner-cardiff-menu.pdf))\n\n2. **Ffwrnes Pizza – Cardiff Central Market**  \n   Great budget lunch spot for wood-fired pizza. Current menu shows pizzas from about **£8–£13**; e.g., Marinara **£8**, Margherita **£9**. It’s in Cardiff Market and typically daytime hours, so better for lunch than late dinner. ([ffwrnes.pizza](https://www.ffwrnes.pizza/?utm_source=openai))\n\n3. **Tukka Tuk – Cardiff Market**  \n   Good-value Indian/Keralan street food. Delivery/menu listings show build-your-own bowls from about **£4.15** and small plates around **£3.50–£6.60**. ([just-eat.co.uk](https://www.just-eat.co.uk/restaurants-tukka-tuk-canteen-cardiff/menu?utm_source=openai))\n\n4. **Cafe Citta – Church Street**  \n   A cosy Italian sit-down option in the centre; menu listings show many pasta/pizza dishes in a relatively affordable range, though prices may have changed so check before going. ([restaurantguru.com](https://restaurantguru.com/Cafe-Citta-Cardiff/menu?utm_source=openai))\n\n**My quick pick:**  \n- **Cheapest:** Falafel Corner  \n- **Best casual lunch:** Ffwrnes Pizza  \n- **Best sit-down:** Cafe Citta  \n\nIf you meant **Cardiff-by-the-Sea, California** instead of Cardiff, Wales, tell me and I’ll give you local options there.",
+      "citations": [
+        {
+          "url": "https://weur-cdn.menuweb.menu/storage/media/companies_menu_pdf/114644282/falafel-corner-cardiff-menu.pdf",
+          "title": "Falafel Corner"
+        },
+        {
+          "url": "https://www.ffwrnes.pizza/?utm_source=openai",
+          "title": "Ffwrnes Pizza"
+        },
+        {
+          "url": "https://www.just-eat.co.uk/restaurants-tukka-tuk-canteen-cardiff/menu?utm_source=openai",
+          "title": "Tukka Tuk Cardiff Market restaurant menu in Cardiff - Order from Just Eat"
+        },
+        {
+          "url": "https://restaurantguru.com/Cafe-Citta-Cardiff/menu?utm_source=openai",
+          "title": "Menu at Cafe Citta, Cardiff"
+        }
+      ]
+    },
+    {
+      "query": "Restaurant in Cardiff city centre",
+      "answer": "Here are solid **Cardiff city centre restaurant** picks:\n\n- **Asador 44** — best for a special meal: Spanish/Mediterranean, wood-fired cooking, great wine; on Quay Street. ([guide.michelin.com](https://guide.michelin.com/us/en/south-glamorgan/cardiff/restaurant/asador-44?utm_source=openai))  \n- **The Potted Pig** — modern British/Welsh food in a quirky underground former bank vault; very central on High Street. ([thepottedpig.com](https://www.thepottedpig.com/contact/?utm_source=openai))  \n- **Pasture Cardiff** — lively steakhouse near Cardiff Castle, good for meat, cocktails, and a buzzy atmosphere. ([pasturerestaurant.com](https://pasturerestaurant.com/locations/pasture-cardiff/?utm_source=openai))  \n- **Bar 44** — Spanish tapas on Westgate Street; good for sharing plates and drinks. ([southwalesguide.com](https://www.southwalesguide.com/directory/bar-44-cardiff?utm_source=openai))  \n- **Mowgli Street Food** — casual Indian street-food style option on Church Street. ([visitcardiff.com](https://www.visitcardiff.com/eat-drink/asian/?utm_source=openai))  \n\n**My quick pick:**  \n- **Date/special occasion:** Asador 44  \n- **Welsh/local feel:** The Potted Pig  \n- **Steak/night out:** Pasture  \n- **Casual group meal:** Bar 44 or Mowgli  \n\nBook ahead if it’s a Friday/Saturday or match/event day in Cardiff.",
+      "citations": [
+        {
+          "url": "https://guide.michelin.com/us/en/south-glamorgan/cardiff/restaurant/asador-44?utm_source=openai",
+          "title": "Asador 44 – Cardiff - a MICHELIN Guide Restaurant"
+        },
+        {
+          "url": "https://www.thepottedpig.com/contact/?utm_source=openai",
+          "title": "Contact – The Potted Pig"
+        },
+        {
+          "url": "https://pasturerestaurant.com/locations/pasture-cardiff/?utm_source=openai",
+          "title": "Pasture (Cardiff) - Pasture Restaurant Group"
+        },
+        {
+          "url": "https://www.southwalesguide.com/directory/bar-44-cardiff?utm_source=openai",
+          "title": "Bar 44 - Cardiff | South Wales Guide"
+        },
+        {
+          "url": "https://www.visitcardiff.com/eat-drink/asian/?utm_source=openai",
+          "title": "Asian Dining • Indian, Chinese & Japanese Cuisine • Visit Cardiff"
+        }
+      ]
+    },
+    {
+      "query": "where can I find a good Restaurant in Cardiff",
+      "answer": "Here are some **good restaurant picks in Cardiff**, depending on what you’re after:\n\n- **Best special occasion / fine dining:** **Gorse** in Pontcanna — Cardiff’s Michelin-starred modern British restaurant, focused on Welsh produce and tasting menus. Book ahead. ([guide.michelin.com](https://guide.michelin.com/us/en/south-glamorgan/cardiff/restaurant/gorse?utm_source=openai))  \n- **Modern, stylish dinner:** **Heaneys** in Canton/Pontcanna — seasonal modern cooking from chef Tommy Heaney, with a strong cocktail/bar setup and tasting menus. ([guide.michelin.com](https://guide.michelin.com/gb/en/south-glamorgan/cardiff/restaurant/heaneys?utm_source=openai))  \n- **Great Indian food:** **Purple Poppadom** on Cowbridge Road East — Michelin-listed, known for polished Indian cooking and signature dishes like tiffin sea bass. ([guide.michelin.com](https://guide.michelin.com/gb/en/south-glamorgan/cardiff/restaurant/purple-poppadom?utm_source=openai))  \n- **Casual but excellent:** **Matsudai Ramen** in Grangetown — a well-liked ramen spot and one of Time Out’s top Cardiff choices. ([timeout.com](https://www.timeout.com/cardiff/restaurants/best-restaurants-in-cardiff))  \n- **Spanish / steak / tapas near the centre:** **Asador 44**, **Bar 44**, and **Curado** around Westgate Street — Visit Wales describes this area as Cardiff’s “Spanish Triangle,” good for tapas, wine, and a more sociable meal. ([visitwales.com](https://www.visitwales.com/things-do/food-and-drink/places-eat-and-drink/guide-eating-cardiff))  \n- **Neighbourhood bistro:** **Milkwood** in Pontcanna — relaxed, seasonal, modern Welsh-style food. ([visitwales.com](https://www.visitwales.com/things-do/food-and-drink/places-eat-and-drink/guide-eating-cardiff))  \n\n**Best areas to look:**  \n- **Pontcanna / Canton** for some of Cardiff’s best independent restaurants.  \n- **City centre / Westgate Street** for Spanish food, steak, tapas, and pre-event meals near Principality Stadium.  \n- **City Road, Roath** for a wide range of international food. ([visitwales.com](https://www.visitwales.com/things-do/food-and-drink/places-eat-and-drink/guide-eating-cardiff))  \n\nIf you want one safe recommendation: **book Gorse for a special meal**, or **Heaneys** if you want fine dining that’s a little more relaxed.",
+      "citations": [
+        {
+          "url": "https://guide.michelin.com/us/en/south-glamorgan/cardiff/restaurant/gorse?utm_source=openai",
+          "title": "Gorse – Cardiff - a MICHELIN Guide Restaurant"
+        },
+        {
+          "url": "https://guide.michelin.com/gb/en/south-glamorgan/cardiff/restaurant/heaneys?utm_source=openai",
+          "title": "Heaneys – Cardiff - a MICHELIN Guide Restaurant"
+        },
+        {
+          "url": "https://guide.michelin.com/gb/en/south-glamorgan/cardiff/restaurant/purple-poppadom?utm_source=openai",
+          "title": "Purple Poppadom – Cardiff - a MICHELIN Guide Restaurant"
+        },
+        {
+          "url": "https://www.timeout.com/cardiff/restaurants/best-restaurants-in-cardiff",
+          "title": "15 Best Restaurants in Cardiff: 2025 Reviews By A Local Expert"
+        },
+        {
+          "url": "https://www.visitwales.com/things-do/food-and-drink/places-eat-and-drink/guide-eating-cardiff",
+          "title": "Places to eat in Cardiff: A guide to food in Cardiff | Visit Wales"
+        }
+      ]
+    },
+    {
+      "query": "Restaurant Cardiff",
+      "answer": "If you mean **restaurants in Cardiff, Wales**, here are solid picks by occasion:\n\n| Best for | Restaurant | Why go |\n|---|---|---|\n| **Special occasion / fine dining** | **Gorse** | Cardiff’s first and currently only Michelin-starred restaurant; modern British/Welsh tasting menus. ([guide.michelin.com](https://guide.michelin.com/us/en/south-glamorgan/cardiff/restaurant/gorse?utm_source=openai)) |\n| **Modern tasting menu** | **Heaneys** | Seasonal modern cooking; Michelin-listed; good-value set lunch and tasting-menu dinner. ([guide.michelin.com](https://guide.michelin.com/gb/en/south-glamorgan/cardiff/restaurant/heaneys?utm_source=openai)) |\n| **Indian** | **Purple Poppadom** | Michelin-listed Indian restaurant known for polished cooking and signature dishes like tiffin sea bass. ([guide.michelin.com](https://guide.michelin.com/gb/en/south-glamorgan/cardiff/restaurant/purple-poppadom?utm_source=openai)) |\n| **Steak** | **Pasture Cardiff** | Highly rated steakhouse; Tripadvisor lists it among Cardiff’s top restaurants. ([tripadvisor.com](https://www.tripadvisor.com/Restaurants-g186460-Cardiff_South_Wales_Wales.html)) |\n| **Italian / pizza** | **Ciliegino Restaurant** or **The Real Italian Pizza Co** | Popular Italian options in Cardiff; both appear high in Tripadvisor’s Cardiff restaurant listings. ([tripadvisor.com](https://www.tripadvisor.com/Restaurants-g186460-Cardiff_South_Wales_Wales.html)) |\n| **Turkish / casual** | **Longa** | Recommended by Gorse chef Tom Waters; good for Turkish brunch or casual dining. ([countryandtownhouse.com](https://www.countryandtownhouse.com/food-and-drink/a-foodies-guide-to-cardiff/)) |\n| **Local foodie pick** | **Ember** | Michelin Guide–recommended, opened in 2024, with British produce and Italian influences. ([countryandtownhouse.com](https://www.countryandtownhouse.com/food-and-drink/a-foodies-guide-to-cardiff/)) |\n| **City-centre Spanish / tapas** | **Asador 44** | A local chef pick for eating in Cardiff city centre. ([countryandtownhouse.com](https://www.countryandtownhouse.com/food-and-drink/a-foodies-guide-to-cardiff/)) |\n\n**Quick recommendation:**  \n- If you want the “best” and can book ahead: **Gorse**.  \n- If you want great food without going full Michelin-star splurge: **Heaneys** or **Purple Poppadom**.  \n- If you want easy, popular, city-centre comfort food: **Pasture**, **Ciliegino**, or **Asador 44**.\n\nIf you tell me your **budget, cuisine, area of Cardiff, and date/time**, I can narrow it to 3 bookable options.",
+      "citations": [
+        {
+          "url": "https://guide.michelin.com/us/en/south-glamorgan/cardiff/restaurant/gorse?utm_source=openai",
+          "title": "Gorse – Cardiff - a MICHELIN Guide Restaurant"
+        },
+        {
+          "url": "https://guide.michelin.com/gb/en/south-glamorgan/cardiff/restaurant/heaneys?utm_source=openai",
+          "title": "Heaneys – Cardiff - a MICHELIN Guide Restaurant"
+        },
+        {
+          "url": "https://guide.michelin.com/gb/en/south-glamorgan/cardiff/restaurant/purple-poppadom?utm_source=openai",
+          "title": "Purple Poppadom – Cardiff - a MICHELIN Guide Restaurant"
+        },
+        {
+          "url": "https://www.tripadvisor.com/Restaurants-g186460-Cardiff_South_Wales_Wales.html",
+          "title": "THE 10  BEST Restaurants in Cardiff (Updated October 2025)"
+        },
+        {
+          "url": "https://www.countryandtownhouse.com/food-and-drink/a-foodies-guide-to-cardiff/",
+          "title": "\n    Where To Eat In Cardiff, According To A Local Chef  "
+        }
+      ]
+    },
+    {
+      "query": "is there a good Restaurant in Cardiff",
+      "answer": "Assuming you mean **Cardiff, Wales**: yes — I’d pick **Gorse in Pontcanna** if you want a properly special meal. It’s a small, intimate restaurant focused on seasonal Welsh produce, and Visit Wales notes it holds a **Michelin Star** and **three AA Rosettes**. ([visitwales.com](https://www.visitwales.com/things-do/food-and-drink/places-eat-and-drink/guide-eating-cardiff))\n\nA few good alternatives:\n\n- **Heaneys** — relaxed but high-end, good for tasting menus or Sunday lunch; it’s run by Tommy Heaney and is a strong all-round choice. ([visitwales.com](https://www.visitwales.com/things-do/food-and-drink/places-eat-and-drink/guide-eating-cardiff))  \n- **Asador 44** — great if you like Spanish food, grilled meats, steak, seafood, and wine; very good for a special but less “formal” dinner. ([visitwales.com](https://www.visitwales.com/things-do/food-and-drink/places-eat-and-drink/guide-eating-cardiff))  \n- **Hiraeth** — inventive Welsh-focused cooking near Victoria Park; good if you want something local and creative. ([visitwales.com](https://www.visitwales.com/things-do/food-and-drink/places-eat-and-drink/guide-eating-cardiff))  \n- **Ffwrnes Pizza** — more casual/cheap: wood-fired pizza inside Cardiff Central Market. ([thegoodfoodguide.co.uk](https://www.thegoodfoodguide.co.uk/where-to-eat/best-restaurants-in-cardiff))  \n\n**My quick recommendation:**  \n- **Best special occasion:** Gorse  \n- **Best reliable nice dinner:** Heaneys  \n- **Best steak/grill:** Asador 44  \n- **Best casual bite:** Ffwrnes Pizza  \n\nBook ahead for Gorse, Heaneys, and Asador 44.",
+      "citations": [
+        {
+          "url": "https://www.visitwales.com/things-do/food-and-drink/places-eat-and-drink/guide-eating-cardiff",
+          "title": "Places to eat in Cardiff: A guide to food in Cardiff | Visit Wales"
+        },
+        {
+          "url": "https://www.thegoodfoodguide.co.uk/where-to-eat/best-restaurants-in-cardiff",
+          "title": "Best Restaurants in Cardiff 2026 | Where To Eat | The Good Food Guide"
+        }
+      ]
+    }
+  ]
+}
