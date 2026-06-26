@@ -135,10 +135,10 @@ if st.session_state.step == 1:
 
 elif st.session_state.step == 2:
     with st.container(border=True):
-        question("Step 2 of 4", "What do you do?", "The kind of business it is.")
+        question("Step 2 of 4", "How would someone search for you?", "Be specific — this drives your query topics.")
         val = st.text_input(
             "Category", value=ans.get("category", ""),
-            placeholder="e.g. barber", label_visibility="collapsed",
+            placeholder="e.g. sushi restaurant, CrossFit gym, barber", label_visibility="collapsed",
         )
         col1, col2 = st.columns(2)
         if col1.button("Back", use_container_width=True):
