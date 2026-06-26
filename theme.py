@@ -22,6 +22,13 @@ TRACK = "#E1E6EB"
 
 _STYLE = """
 <style>
+/* hide the auto-generated multipage sidebar nav — the flow is wizard -> audit ->
+   results, driven by st.switch_page, not free navigation between pages */
+[data-testid="stSidebar"],
+[data-testid="stSidebarNav"],
+[data-testid="stSidebarCollapsedControl"],
+[data-testid="collapsedControl"] { display: none !important; }
+
 /* a little more breathing room at the top of every page */
 .block-container { padding-top: 3rem; max-width: 820px; }
 

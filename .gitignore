@@ -2,3 +2,9 @@
 venv/
 __pycache__/
 .pytest_cache/
+
+# local SQLite database — recreate with `python init_db.py`
+geo.db
+
+# local backup of a saved run — not source
+latest_run.backup.json
